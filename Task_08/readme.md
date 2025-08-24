@@ -44,8 +44,6 @@ It provides key insights into sales, profit, orders, and product performance thr
 
 ---
 
-## 📷 Dashboard Preview
-
 ## 📷 Dashboard Preview  
 
 ![Dashboard Screenshot](Dashboard_image.png)
