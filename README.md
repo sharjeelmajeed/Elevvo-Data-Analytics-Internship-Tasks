@@ -19,7 +19,7 @@ During the internship, I completed the following projects:
 
 ## 📂 Projects
 
-### 🔹 Task 1 - Superstore Sales Dashboard
+### 🔹 [Task 1 - Superstore Sales Dashboard](./Task_01/)
 - Designed an **Excel dashboard** for the Superstore dataset.  
 - Used Pivot Tables, KPIs, and charts to evaluate revenue, profit, and sales performance.  
 - Added interactive slicers for Segment, Category, Ship Mode, and Year.  
@@ -28,7 +28,7 @@ During the internship, I completed the following projects:
 
 ---
 
-### 🔹 Task 5 - SQL Analysis of the Chinook Database
+### 🔹 [Task 5 - SQL Analysis of the Chinook Database](./Task_05/)
 - Performed analysis on the **Chinook database** using SQL queries.  
 - Exported query results into Python for additional visualizations.  
 
@@ -42,7 +42,7 @@ During the internship, I completed the following projects:
 
 ---
 
-### 🔹 Task 8 - Retail Insights Dashboard
+### 🔹 [Task 8 - Retail Insights Dashboard](./Task_08/)
 - Built an interactive **Power BI dashboard** for retail data.  
 - Included KPIs such as Total Orders, Revenue, Profit, Quantity Sold, and Average Discount.  
 - Visualized sales by region, category, state (map), and monthly performance.  
